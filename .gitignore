@@ -1,0 +1,10 @@
+# Lokalne / tymczasowe pliki
+*.zip
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/

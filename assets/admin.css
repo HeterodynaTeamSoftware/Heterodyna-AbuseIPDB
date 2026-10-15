@@ -1,0 +1,4 @@
+.het-abuseipdb .het-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.het-abuseipdb .het-card{background:#fff;border:1px solid #e6e6e6;border-radius:14px;padding:16px;box-shadow:0 1px 10px rgba(0,0,0,.04)}
+.het-abuseipdb h1{margin-bottom:14px}
+@media (max-width: 1100px){.het-abuseipdb .het-grid{grid-template-columns:1fr}}
